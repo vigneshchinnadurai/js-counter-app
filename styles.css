@@ -76,7 +76,7 @@ img {
 button.add {
   background-color: green;
 }
-button.generate {
+button.reset {
   background-color: var(--white);
   color: var(--black);
 }
